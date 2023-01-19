@@ -1,2 +1,3 @@
 # AZnotify
-Firebase Notification Application
+-Firebase Notification Application <br/>
+-Bluetooth Thermal Printer Integration with Firebase Module
